@@ -31,7 +31,7 @@ Este projeto é licenciado sob a Licença MIT:
 ```txt
 MIT License
 
-Copyright (c) 2024 DiegoCarlito
+Copyright (c) 2024 Diego Carlito
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
